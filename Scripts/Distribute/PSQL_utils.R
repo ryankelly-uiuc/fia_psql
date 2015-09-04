@@ -1,3 +1,5 @@
+# These are PEcAn DB functions, copied for convenience to this FIA project
+
 #-------------------------------------------------------------------------------
 # Copyright (c) 2012 University of Illinois, NCSA.
 # All rights reserved. This program and the accompanying materials
